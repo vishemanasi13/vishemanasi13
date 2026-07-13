@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Manasi Vishe 👋
 
-<!--
-**vishemanasi13/vishemanasi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I enjoy working with data and creating dashboards that turn raw data into meaningful insights.I am continuously improving my skills by building practical projects using SQL, Power BI, Excel, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- SQL
+- Power BI
+- Excel
+- Python
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+- 👥 HR Analytics Dashboard
+- 💰 Loan Risk Analysis
+- 🛒 FMCG Retail Analysis
+
+---
+
+## 🌱 Currently Learning
+
+- SQL
+- Power BI
+- Python
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
