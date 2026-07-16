@@ -19,9 +19,9 @@ I enjoy working with data and creating dashboards that turn raw data into meanin
 
 ## 📂 Featured Projects
 
-👥 HR Analytics Dashboard
-💰 Loan Risk Analysis Dashboard
-🛒 FMCG Retail Dashboard
+- 👥 HR Analytics Dashboard
+- 💰 Loan Risk Analysis Dashboard
+- 🛒 FMCG Retail Dashboard
 
 ---
 
