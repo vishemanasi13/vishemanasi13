@@ -2,7 +2,7 @@
 
 ## 📊 Aspiring Data Analyst
 
-I enjoy working with data and creating dashboards that turn raw data into meaningful insights.I am continuously improving my skills by building practical projects using SQL, Power BI, Excel, and Python.
+I enjoy working with data and creating dashboards that turn raw data into meaningful insights. I am continuously improving my skills by building practical projects using SQL, Power BI, Excel, and Python.
 
 ---
 
@@ -19,9 +19,9 @@ I enjoy working with data and creating dashboards that turn raw data into meanin
 
 ## 📂 Featured Projects
 
-- 👥 HR Analytics Dashboard
-- 💰 Loan Risk Analysis
-- 🛒 FMCG Retail Analysis
+👥 HR Analytics Dashboard
+💰 Loan Risk Analysis Dashboard
+🛒 FMCG Retail Dashboard
 
 ---
 
