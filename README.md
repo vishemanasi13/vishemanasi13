@@ -2,7 +2,8 @@
 
 ## 📊 Aspiring Data Analyst
 
-I enjoy working with data and creating dashboards that turn raw data into meaningful insights. I am continuously improving my skills by building practical projects using SQL, Power BI, Excel, and Python.
+I am passionate about analysing data and building interactive dashboards that transform raw data into meaningful business insights.
+I enjoy working with SQL, Power BI, Excel, and Python, and I am continuously improving my analytical and problem-solving skills through real-world projects.
 
 ---
 
@@ -10,26 +11,37 @@ I enjoy working with data and creating dashboards that turn raw data into meanin
 
 - SQL
 - Power BI
-- Excel
-- Python
+- Microsoft Excel
+- Python (Basic)
+- Power Query
+- DAX
 - Data Cleaning
+- Data Analysis
 - Data Visualization
+- Dashboard Development
 
 ---
 
 ## 📂 Featured Projects
 
-- 👥 HR Analytics Dashboard
+- 👥 HR Attrition Analytics Dashboard
 - 💰 Loan Risk Analysis Dashboard
-- 🛒 FMCG Retail Dashboard
-
+- 🛒 Retail Sales & Inventory Analytics Dashboard
+  
 ---
 
 ## 🌱 Currently Learning
 
-- SQL
+- Advanced SQL
 - Power BI
-- Python
+- Python for Data Analysis
+- Data Storytelling
+
+---
+
+## 🎯 Career Goal
+
+To build data-driven solutions that help businesses make informed decisions through data analysis and interactive dashboards.
 
 ---
 
@@ -37,3 +49,5 @@ I enjoy working with data and creating dashboards that turn raw data into meanin
 
 - LinkedIn: Coming Soon
 - Portfolio: Coming Soon
+
+
