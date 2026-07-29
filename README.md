@@ -2,16 +2,16 @@
 
 ## 📊 Aspiring Data Analyst
 
-I am passionate about analysing data and building interactive dashboards that transform raw data into meaningful business insights.
-I enjoy working with SQL, Power BI, Excel, and Python, and I am continuously improving my analytical and problem-solving skills through real-world projects.
+I am passionate about analyzing data and building interactive dashboards that transform raw data into meaningful business insights.
+I enjoy working with SQL, Microsoft Power BI, and Excel, and I'm currently building my Python skills for data analysis, while continuously improving my analytical and problem-solving skills through real-world projects.
 
 ---
 
 ## 🛠️ Skills
 
 - SQL
-- Power BI
-- Microsoft Excel
+- Microsoft Power BI
+- Excel
 - Python (Basic)
 - Power Query
 - DAX
@@ -26,14 +26,14 @@ I enjoy working with SQL, Power BI, Excel, and Python, and I am continuously imp
 
 - 👥 HR Attrition Analytics Dashboard
 - 💰 Loan Risk Analysis Dashboard
-- 🛒 Retail Sales & Inventory Analytics Dashboard
+- 🛒 FMCG Sales & Inventory Insights Dashboard
   
 ---
 
 ## 🌱 Currently Learning
 
 - Advanced SQL
-- Power BI
+- Advanced Power BI
 - Python for Data Analysis
 - Data Storytelling
 
@@ -47,7 +47,11 @@ To build data-driven solutions that help businesses make informed decisions thro
 
 ## 📫 Connect with Me
 
-- LinkedIn: Coming Soon
-- Portfolio: Coming Soon
+- 📧 Email: vishemansi7@gmail.com
+- 🌐 Portfolio: https://valley-moat-36a.notion.site/Manasi-Vishe-Data-Analyst-Portfolio-399beaae712b80ed886cd3468220e815 
+- 💼 LinkedIn: Available Soon
 
+---
+
+  
 
