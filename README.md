@@ -47,7 +47,7 @@ To build data-driven solutions that help businesses make informed decisions thro
 
 ## 📄 Resume
 
-📥 [📄 View My Resume](./Manasi_Vishe_Resume.pdf)
+📥 [Download My Resume](./Manasi_vishe_Resume.pdf)
 
 ---
 
