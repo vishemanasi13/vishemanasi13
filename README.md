@@ -20,7 +20,6 @@ I enjoy working with SQL, Microsoft Power BI, and Excel, and I'm currently build
 - Data Visualization
 - Dashboard Development
 - Pandas,Numpy(Basic)
-- 
 
 ---
 
