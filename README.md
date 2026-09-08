@@ -11,14 +11,16 @@ I enjoy working with SQL, Microsoft Power BI, and Excel, and I'm currently build
 
 - SQL
 - Microsoft Power BI
-- Excel
-- Python (Basic)
+- Advanced Excel
+- Python 
 - Power Query
 - DAX
 - Data Cleaning
 - Data Analysis
 - Data Visualization
 - Dashboard Development
+- Pandas,Numpy(Basic)
+- 
 
 ---
 
@@ -41,7 +43,7 @@ I enjoy working with SQL, Microsoft Power BI, and Excel, and I'm currently build
 
 ## 🎯 Career Goal
 
-To build data-driven solutions that help businesses make informed decisions through data analysis and interactive dashboards.
+To start my career as a Data Analyst and use data to find meaningful insights, support business decisions, and build interactive dashboards.
 
 ---
 
